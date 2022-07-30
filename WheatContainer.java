@@ -1,3 +1,4 @@
+// week 4
 public class WheatContainer {
         // function to sort an array
         private static void sortArray(int array[]) {
